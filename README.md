@@ -42,7 +42,8 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-<img width="407" height="107" alt="image" src="https://github.com/user-attachments/assets/fd4f4ec5-ce24-4327-b348-236652e236dd" />
+
+<img width="485" height="95" alt="image" src="https://github.com/user-attachments/assets/92cc6497-7138-44a4-9b61-caf41906ee37" />
 
 
 
@@ -50,7 +51,8 @@ cat < file1
 cat < file2
 ## OUTPUT
 
-<img width="352" height="110" alt="image" src="https://github.com/user-attachments/assets/1349b263-23ed-4892-aa0a-391c604dbaf0" />
+<img width="487" height="107" alt="image" src="https://github.com/user-attachments/assets/e6c685d1-8323-4728-867f-6aed95a82727" />
+
 
 
 # Comparing Files
