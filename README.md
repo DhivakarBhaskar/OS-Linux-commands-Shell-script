@@ -126,27 +126,32 @@ hello world
 grep Hello newfile 
 ## OUTPUT
 
+<img width="290" height="42" alt="image" src="https://github.com/user-attachments/assets/8d0bdd90-e184-4418-8ece-44b10fa75fb2" />
 
 
 grep hello newfile 
 ## OUTPUT
 
+<img width="327" height="50" alt="image" src="https://github.com/user-attachments/assets/b83866d3-4736-4bb5-9d35-0f34eb101c0b" />
 
 
 
 grep -v hello newfile 
 ## OUTPUT
+<img width="372" height="38" alt="image" src="https://github.com/user-attachments/assets/2dfe8599-b345-4fb5-9ca8-8e5deee38116" />
 
 
 
 cat newfile | grep -i "hello"
 ## OUTPUT
 
+<img width="435" height="65" alt="image" src="https://github.com/user-attachments/assets/2d91241d-1af3-448c-b22b-6d80befd2c29" />
 
 
 
 cat newfile | grep -i -c "hello"
 ## OUTPUT
+<img width="480" height="46" alt="image" src="https://github.com/user-attachments/assets/b434da67-dd1b-47f6-8c1d-2137090a6ea2" />
 
 
 
@@ -158,6 +163,7 @@ grep -R ubuntu /etc
 
 grep -w -n world newfile   
 ## OUTPUT
+<img width="365" height="75" alt="image" src="https://github.com/user-attachments/assets/4817a62c-93e1-4e6e-88c6-d9148d646de8" />
 
 
 cat < newfile 
