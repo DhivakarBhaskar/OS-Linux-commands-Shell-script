@@ -394,6 +394,7 @@ uniq file22
 
 cat file23 | tr [:lower:] [:upper:]
  ## OUTPUT
+<img width="448" height="147" alt="image" src="https://github.com/user-attachments/assets/88fbf7c2-cfc2-47c2-9d71-c8fe06945288" />
 
 cat < urllist.txt
 ```
@@ -411,10 +412,12 @@ www. mrcet.... com
 cat urllist.txt | tr -d ' '
  ## OUTPUT
 
+<img width="363" height="77" alt="image" src="https://github.com/user-attachments/assets/bc303546-14a9-4f24-b986-685430c859e5" />
 
  
 cat urllist.txt | tr -d ' ' | tr -s '.'
 ## OUTPUT
+<img width="495" height="75" alt="image" src="https://github.com/user-attachments/assets/4c919063-70ac-48f0-ab11-56187d6a391e" />
 
 
 
