@@ -247,11 +247,13 @@ egrep 'Linux.*World' newfile
 egrep l{2} newfile
 ## OUTPUT
 
+<img width="643" height="61" alt="image" src="https://github.com/user-attachments/assets/0dbd5d5f-6631-4655-9212-2d37953e82d3" />
 
 
 egrep 's{1,2}' newfile
 ## OUTPUT 
 
+<img width="407" height="77" alt="image" src="https://github.com/user-attachments/assets/e0aa1287-ea45-4d5d-9028-6d94d4fb9987" />
 
 cat > file23
 ```
@@ -270,42 +272,49 @@ cat > file23
 sed -n -e '3p' file23
 ## OUTPUT
 
+<img width="343" height="47" alt="image" src="https://github.com/user-attachments/assets/ed090b23-f9e5-43a9-9902-5390fb7c6907" />
 
 
 sed -n -e '$p' file23
 ## OUTPUT
+<img width="381" height="45" alt="image" src="https://github.com/user-attachments/assets/dc790ee9-3e4e-4125-9dbc-ecca82148a47" />
 
 
 
 sed  -e 's/Ram/Sita/' file23
 ## OUTPUT
 
+<img width="433" height="150" alt="image" src="https://github.com/user-attachments/assets/4e676d6b-780a-4059-8a5d-d059fc051f1d" />
 
 
 sed  -e '2s/Ram/Sita/' file23
 ## OUTPUT
+<img width="452" height="151" alt="image" src="https://github.com/user-attachments/assets/44c66e46-93fe-4854-8edf-a643f95c72e7" />
 
 
 
 sed  '/tom/s/5000/6000/' file23
 ## OUTPUT
+<img width="611" height="151" alt="image" src="https://github.com/user-attachments/assets/d8a94641-61e3-49ca-8c7a-f22aa9d0b9fd" />
 
 
 
 sed -n -e '1,5p' file23
 ## OUTPUT
+<img width="542" height="105" alt="image" src="https://github.com/user-attachments/assets/8c52491e-d491-44b2-9243-8a68284ad209" />
 
 
 
 sed -n -e '2,/Joe/p' file23
 ## OUTPUT
 
-
+<img width="560" height="77" alt="image" src="https://github.com/user-attachments/assets/a27200ae-1795-4703-98c9-8c712e667242" />
 
 
 sed -n -e '/tom/,/Joe/p' file23
 ## OUTPUT
 
+<img width="598" height="65" alt="image" src="https://github.com/user-attachments/assets/d62b015f-cb17-4219-87d4-83e529ac1130" />
 
 
 seq 10 
