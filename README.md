@@ -208,34 +208,41 @@ egrep -w '(H|h)ell[a-z]' newfile
 egrep '(^hello)' newfile 
 ## OUTPUT
 
+<img width="427" height="47" alt="image" src="https://github.com/user-attachments/assets/f356cb53-2e2d-43d4-bf3a-42ee62def1b2" />
 
 
 egrep '(world$)' newfile 
 ## OUTPUT
 
 
+<img width="420" height="71" alt="image" src="https://github.com/user-attachments/assets/b8c964ef-1dd9-43e8-b16f-9182a4d4fd07" />
+
 
 egrep '(World$)' newfile 
 ## OUTPUT
 
-
+<img width="327" height="47" alt="image" src="https://github.com/user-attachments/assets/338afd62-3d01-4e03-9f4e-2cc5988e5266" />
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
+<img width="357" height="76" alt="image" src="https://github.com/user-attachments/assets/61d75ba3-e618-44d9-af37-6d4c51e30820" />
 
 
 
 egrep '[1-9]' newfile 
 ## OUTPUT
+<img width="365" height="47" alt="image" src="https://github.com/user-attachments/assets/627127c1-c876-4636-8b6e-88d96a66bb59" />
 
 
 
 egrep 'Linux.*world' newfile 
 ## OUTPUT
+<img width="348" height="47" alt="image" src="https://github.com/user-attachments/assets/5b8e9e92-8e71-44d2-850c-5bde49f4943b" />
 
 
 egrep 'Linux.*World' newfile 
 ## OUTPUT
 
+<img width="342" height="45" alt="image" src="https://github.com/user-attachments/assets/2c6cd17c-6774-43d8-ba82-5420339fb8d7" />
 
 egrep l{2} newfile
 ## OUTPUT
