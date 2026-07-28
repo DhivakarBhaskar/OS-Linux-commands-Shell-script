@@ -514,23 +514,30 @@ chmod 777 scriptest.sh
 
 ## OUTPUT
 
- 
+ <img width="862" height="273" alt="image" src="https://github.com/user-attachments/assets/55b8f5d1-408e-4a48-baa4-f2e35ea91133" />
+
 ls file1
 ## OUTPUT
+<img width="418" height="51" alt="image" src="https://github.com/user-attachments/assets/8a37b877-e7bd-48f7-a221-2e465acbe62e" />
 
 echo $?
 ## OUTPUT 
+<img width="415" height="41" alt="image" src="https://github.com/user-attachments/assets/06a23eb8-7101-4420-9ed2-9e10a59ceafa" />
+
+
 ./one
 bash: ./one: Permission denied
  
 echo $?
 ## OUTPUT 
- 
+ <img width="645" height="97" alt="image" src="https://github.com/user-attachments/assets/18bbc426-1a96-4177-bf46-e808e1a27fa4" />
+
 abcd
  
 echo $?
  ## OUTPUT
 
+![Uploading image.png…]()
 
  
 # mis-using string comparisons
