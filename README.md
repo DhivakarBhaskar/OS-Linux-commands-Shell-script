@@ -537,7 +537,8 @@ abcd
 echo $?
  ## OUTPUT
 
-![Uploading image.png…]()
+
+<img width="417" height="40" alt="image" src="https://github.com/user-attachments/assets/57211b4c-582c-4cd5-b7ee-b8d3e79ef123" />
 
  
 # mis-using string comparisons
@@ -569,6 +570,7 @@ echo "$val1 is less than $val2"
 fi
 ```
 ##OUTPUT
+<img width="530" height="165" alt="image" src="https://github.com/user-attachments/assets/d2e76cd7-8522-474d-b8ce-934aafe6e19c" />
 
 
 
@@ -576,7 +578,9 @@ chmod 755 strcomp.sh
  
 ./strcomp.sh 
 ## OUTPUT
+<img width="380" height="28" alt="image" src="https://github.com/user-attachments/assets/a2eac99f-0921-422b-a326-bbfd0e04c207" />
 
+<img width="608" height="62" alt="image" src="https://github.com/user-attachments/assets/6e82ac55-a544-43d5-97b0-23d9846ecf5a" />
 
 # check file ownership
 cat < psswdperm.sh 
@@ -603,6 +607,7 @@ fi
  ```
 ./psswdperm.sh
 ## OUTPUT
+<img width="590" height="65" alt="image" src="https://github.com/user-attachments/assets/adc4ea74-c2c1-41c8-81b4-2d2612101996" />
 
 # check if with file location
 cat>ifnested.sh 
@@ -650,6 +655,7 @@ fi
 ./ifnested.sh 
 ## OUTPUT
 
+<img width="613" height="78" alt="image" src="https://github.com/user-attachments/assets/6730f415-31cd-4972-9669-03158794b422" />
 
 
 # using numeric test comparisons
@@ -693,6 +699,7 @@ $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
 ##OUTPUT
+<img width="587" height="118" alt="image" src="https://github.com/user-attachments/assets/7f848345-11e2-4331-9c2d-8947e93a8757" />
 
 # check if a file
 cat > ifnested.sh 
@@ -743,6 +750,8 @@ $ chmod 755 ifnested.sh
 $ ./ifnested.sh 
 ##OUTPUT
 
+<img width="577" height="107" alt="image" src="https://github.com/user-attachments/assets/faaec3e9-a52a-4f79-a34c-78ff15d40ff1" />
+
 # looking for a possible value using elif
 cat elifcheck.sh 
 ```bash
@@ -786,6 +795,7 @@ fi
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
+<img width="522" height="90" alt="image" src="https://github.com/user-attachments/assets/509682d2-be13-42d9-9b2a-ae99d2d36468" />
 
 # using the case command
 cat >casecheck.sh 
