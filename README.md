@@ -98,16 +98,19 @@ cat > file22
 cut -c1-3 file11
 ## OUTPUT
 
+<img width="333" height="62" alt="image" src="https://github.com/user-attachments/assets/99be0642-8027-4f8a-853d-7384e5189609" />
 
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
 
+<img width="407" height="82" alt="image" src="https://github.com/user-attachments/assets/4505148b-fe1a-4192-97c5-86ddbf5f8a26" />
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
+<img width="352" height="80" alt="image" src="https://github.com/user-attachments/assets/91063a81-4bf5-4966-8643-42b4a48a6be6" />
 
 
 cat < newfile 
