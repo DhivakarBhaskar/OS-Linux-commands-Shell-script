@@ -320,37 +320,45 @@ sed -n -e '/tom/,/Joe/p' file23
 seq 10 
 ## OUTPUT
 
+<img width="678" height="178" alt="image" src="https://github.com/user-attachments/assets/3d0be5f3-3532-499d-93db-aa7cd923adf9" />
 
 
 seq 10 | sed -n '4,6p'
 ## OUTPUT
+<img width="406" height="72" alt="image" src="https://github.com/user-attachments/assets/769e400f-2d59-4907-9688-938d535613a0" />
 
 
 
 seq 10 | sed -n '2,~4p'
 ## OUTPUT
+<img width="477" height="81" alt="image" src="https://github.com/user-attachments/assets/f2771d8e-9715-4adb-9777-929c667455f4" />
 
 
 
 seq 3 | sed '2a hello'
 ## OUTPUT
 
+<img width="363" height="92" alt="image" src="https://github.com/user-attachments/assets/ee7f7816-2ff9-4fc1-9fdd-66e0211b214d" />
 
 
 seq 2 | sed '2i hello'
 ## OUTPUT
+<img width="352" height="77" alt="image" src="https://github.com/user-attachments/assets/dbae3581-d3ce-41f4-96be-9e77bdb5210f" />
 
 
 seq 10 | sed '2,9c hello'
 ## OUTPUT
 
+<img width="447" height="78" alt="image" src="https://github.com/user-attachments/assets/381bddc9-ae26-4ff5-86a5-45114f4d3558" />
 
 sed -n '2,4{s/^/$/;p}' file23
 ## OUTPUT
+<img width="377" height="72" alt="image" src="https://github.com/user-attachments/assets/92dd1f75-284c-427a-8156-62220a6bf5a8" />
 
 
 
 sed -n '2,4{s/$/*/;p}' file23
+<img width="437" height="76" alt="image" src="https://github.com/user-attachments/assets/380ddf0e-ab82-4637-b931-ea1af4420906" />
 
 
 #Sorting File content
@@ -365,6 +373,7 @@ cat > file21
 sort file21
 ## OUTPUT
 
+<img width="320" height="106" alt="image" src="https://github.com/user-attachments/assets/cd82d57e-425a-4836-9483-29b3bfda7c29" />
 
 cat > file22
 ```
@@ -378,6 +387,7 @@ cat > file22
 uniq file22
 ## OUTPUT
 
+<img width="478" height="110" alt="image" src="https://github.com/user-attachments/assets/3e5a913d-eb24-42da-9988-572e7f56150d" />
 
 
 #Using tr command
