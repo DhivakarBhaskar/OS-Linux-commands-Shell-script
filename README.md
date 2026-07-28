@@ -188,15 +188,19 @@ Linux is best in this World
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
 
+<img width="410" height="60" alt="image" src="https://github.com/user-attachments/assets/79f478a3-fd7c-4300-8b65-3ace57033cf4" />
 
 
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
 
+<img width="427" height="62" alt="image" src="https://github.com/user-attachments/assets/e6ab4e6d-ea28-4271-935b-2a74d363a2be" />
 
 
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
+
+<img width="447" height="63" alt="image" src="https://github.com/user-attachments/assets/6b95437e-6639-4bd8-aae0-2c728e0d6701" />
 
 
 
