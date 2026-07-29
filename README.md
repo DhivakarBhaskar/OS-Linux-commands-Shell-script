@@ -751,7 +751,7 @@ $ chmod 755 ifnested.sh
 $ ./ifnested.sh 
 ##OUTPUT
 
-<img width="577" height="107" alt="image" src="https://github.com/user-attachments/assets/faaec3e9-a52a-4f79-a34c-78ff15d40ff1" />
+<img width="500" height="122" alt="image" src="https://github.com/user-attachments/assets/5d8fda03-a7fe-4649-9734-2ae42a90e77e" />
 
 # looking for a possible value using elif
 cat elifcheck.sh 
@@ -780,6 +780,8 @@ $ chmod 755 elifcheck.sh
  
 $ ./elifcheck.sh 
 ## OUTPUT
+
+<img width="322" height="105" alt="image" src="https://github.com/user-attachments/assets/015ee297-0f29-447b-9b92-990e507db7cc" />
 
 
 # testing compound comparisons
