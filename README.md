@@ -894,7 +894,9 @@ done
 $ chmod 755 forin2.sh
  
 $ ./forin2.sh 
- 
+ ## Output:
+ <img width="535" height="107" alt="image" src="https://github.com/user-attachments/assets/d4156612-74c1-4760-9067-a5600b81fbdf" />
+
 cat forin3.sh 
 ```bash
 \#!/bin/bash
@@ -905,7 +907,10 @@ echo "word:$test"
 done
 ```
 $ ./forin3.sh 
- 
+ ## output
+ <img width="900" height="297" alt="image" src="https://github.com/user-attachments/assets/e625f893-7701-4589-8822-481124761371" />
+
+
 cat forin1.sh 
 ```bash
 #!/bin/bash
@@ -917,7 +922,7 @@ done
 ```
 $ chmod 755 forin1.sh
 
-## OUTPUT
+
 cat forinfile.sh 
 ```bash
 #!/bin/bash
@@ -929,6 +934,7 @@ echo "Visit beautiful $file“
 done
 ```
 $ chmod 777 forinfile.sh
+
 $ cat cities
 Hyderabad
 Alampur
@@ -939,6 +945,7 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
+
 
 
 cat forctype.sh 
@@ -953,6 +960,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+<img width="900" height="462" alt="image" src="https://github.com/user-attachments/assets/0dc9ff53-de2d-42db-9fb6-12c642c77bbd" />
 
 cat forctype1.sh 
 ```bash
@@ -966,6 +974,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="315" height="107" alt="image" src="https://github.com/user-attachments/assets/e4f734fa-2bea-4838-967e-fa35271f0c59" />
 
 cat fornested1.sh 
 ```bash
@@ -984,6 +993,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
+<img width="282" height="208" alt="image" src="https://github.com/user-attachments/assets/5c0fbc2b-8a31-4ca9-a2f7-57a5b86c315e" />
 
  
 cat forbreak.sh 
@@ -1001,6 +1011,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="576" height="87" alt="image" src="https://github.com/user-attachments/assets/ce8026cd-d111-41eb-b42d-5ca7e094c318" />
 
 $ chmod 755 forbreak.sh
  
