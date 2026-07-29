@@ -446,12 +446,13 @@ gzip backup.tar
 
 ls .gz
 ## OUTPUT
- <img width="731" height="37" alt="image" src="https://github.com/user-attachments/assets/0c900852-29c7-48cd-bcc5-813d4ff4036c" />
+<img width="493" height="60" alt="image" src="https://github.com/user-attachments/assets/a64bcc36-43e8-4cd0-a3f3-e350370e70f6" />
 
 gunzip backup.tar.gz
 ## OUTPUT
 
- <img width="493" height="60" alt="image" src="https://github.com/user-attachments/assets/a64bcc36-43e8-4cd0-a3f3-e350370e70f6" />
+ 
+ <img width="731" height="37" alt="image" src="https://github.com/user-attachments/assets/0c900852-29c7-48cd-bcc5-813d4ff4036c" />
 
 # Shell Script
 ```
