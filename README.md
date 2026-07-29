@@ -1016,7 +1016,7 @@ echo "The for loop is completed“
 $ chmod 755 forbreak.sh
  
 $ ./forbreak.sh 
- 
+
 cat forbreak.sh 
 ```bash
 #!/bin/bash
@@ -1033,11 +1033,12 @@ echo "The for loop is completed“
 ```
 
  
-$ chmod 755 forcontinue.sh
+$ chmod 755 forbreak.sh
  
-$ ./forcontinue.sh 
+$ ./forbreak.sh 
 ## OUTPUT
- 
+ <img width="555" height="102" alt="image" src="https://github.com/user-attachments/assets/8731f029-6a7f-40d8-8cb7-38e609f0a5eb" />
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1052,7 +1053,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
-
+<img width="1486" height="293" alt="image" src="https://github.com/user-attachments/assets/fbc8948f-51f0-4461-a108-a5ec5f196e7d" />
  cat exread1.sh
 ```bash
 #!/bin/bash
@@ -1063,6 +1064,8 @@ echo "Hello $name, welcome to my program. “
 $ chmod 755 exread1.sh 
 
 ## OUTPUT
+
+<img width="572" height="65" alt="image" src="https://github.com/user-attachments/assets/1526daa2-22a6-4c35-8c3c-fcdfe33b0f1a" />
 
 
 
@@ -1086,10 +1089,12 @@ fi
 ## OUTPUT
  ./funcex.sh 
 
- 
+ <img width="270" height="50" alt="image" src="https://github.com/user-attachments/assets/1b7baedd-779f-4849-9ee9-0135c602aa5d" />
+
  ./funcex.sh 1 2
 
- 
+ <img width="245" height="40" alt="image" src="https://github.com/user-attachments/assets/3fbbc616-5f3a-4512-824a-40826bd9b4a8" />
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
@@ -1102,7 +1107,8 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ <img width="282" height="80" alt="image" src="https://github.com/user-attachments/assets/01c55f7b-8a8a-464f-9c71-2a32edca0133" />
+
  cat argshift1.sh
 ```bash
  #/bin/bash 
@@ -1163,7 +1169,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ <img width="402" height="225" alt="image" src="https://github.com/user-attachments/assets/cb58bf00-1d07-43d8-8229-55835722ab9e" />
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1190,6 +1197,7 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="551" height="375" alt="image" src="https://github.com/user-attachments/assets/ce4eeafa-6e55-4759-b8e0-eeff47e2c384" />
 
 
 # RESULT:
