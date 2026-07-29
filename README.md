@@ -818,7 +818,9 @@ esac
 $ chmod 755 casecheck.sh 
  
 $ ./casecheck.sh 
- 
+## OUTPUT:
+<img width="358" height="42" alt="image" src="https://github.com/user-attachments/assets/e2a8d0ad-1c78-4990-a30f-a5ef18581652" />
+
 cat > whiletest
 ```bash
 #!/bin/bash
@@ -833,7 +835,9 @@ done
 $ chmod 755 whiletest.sh
  
 $ ./whiletest.sh
- 
+ ## Output:
+ <img width="496" height="182" alt="image" src="https://github.com/user-attachments/assets/bda8a269-97c9-46a8-9b48-b396f5b1a731" />
+
  
 cat untiltest.sh 
 ```bash
@@ -847,7 +851,9 @@ done
 ``` 
 $ chmod 755 untiltest.sh
  
- 
+ ## Output:
+ <img width="490" height="110" alt="image" src="https://github.com/user-attachments/assets/71305dcd-095c-4204-9184-af034d4cf3c8" />
+
  
 cat forin1.sh 
 ```bash
@@ -860,7 +866,9 @@ done
  ```
  
 $ chmod 755 forin1.sh
- 
+ ## Output:
+ <img width="517" height="152" alt="image" src="https://github.com/user-attachments/assets/ccd6e9a6-67d1-4cce-9ffc-fd924c5ed32a" />
+
  
 cat forin2.sh 
 ```bash
